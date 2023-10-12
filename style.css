@@ -54,7 +54,6 @@
 
 .flex1{
     width: 55%;
-    /* margin-right: 15%; */
 }
 
 .flex1 h1{
@@ -132,7 +131,6 @@ label{
     height: 40px;
     border-radius: 20px;
     margin-top: 30px;
-    /* padding-left: 20px; */
     border: none;
     margin-bottom: 30px;
     cursor: pointer;
@@ -235,7 +233,6 @@ label{
     .navv ul{
         display: flex;
         list-style: none;
-        /* width: 100%; */
         align-items: center;
     }
     
@@ -244,17 +241,3 @@ label{
         font-size: large;
     }
 }
-/* 
-@media screen and (max-width:700px){
-    .navv h2{
-        width: 90%;
-    }
-    .navv ul{
-        width: 80%;
-    }
-    .navv button{
-        right: 0;
-        align-items: end;
-        text-align: right;
-    }
-} */
